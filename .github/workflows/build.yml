@@ -630,3 +630,4 @@ jobs:
               merge_method: 'merge',
             });
             console.log('Dependabot PR merged successfully.');
+# zh-CN build trigger
