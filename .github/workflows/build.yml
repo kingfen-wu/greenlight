@@ -631,3 +631,5 @@ jobs:
             });
             console.log('Dependabot PR merged successfully.');
 # zh-CN build trigger
+
+# trigger: zh-CN enable pass
